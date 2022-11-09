@@ -1,6 +1,6 @@
-import { FunctionalCounter1 } from "./components/useEffect/FunctionalCounter1.jsx";
-import { FunctionalCounter2 } from "./components/useEffect/FunctionalCounter2.jsx";
-import { ClassCounter } from "./components/useEffect/ClassCounter.jsx";
+import { FunctionalCounter1 } from "./components/overreacted-useEffect-guide/FunctionalCounter1.jsx";
+import { FunctionalCounter2 } from "./components/overreacted-useEffect-guide/FunctionalCounter2.jsx";
+import { ClassCounter } from "./components/overreacted-useEffect-guide/ClassCounter.jsx";
 import "./styles.css";
 
 export default function App() {
